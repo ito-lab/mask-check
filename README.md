@@ -6,7 +6,7 @@ OpenCVの顔検出・口検出・鼻検出を使って正しくマスクの着�
 マスク未着用やアゴにマスクをかけている場合は「×」
 が顔の上に表示されます．
 
-★本ソースはOpenCVのみ必要になります．
+★本ソースはPython，OpenCVが必要です．
 
 YouTubeにて公開中．
 https://www.youtube.com/watch?v=QYpNm4sEo9I
